@@ -13,7 +13,7 @@
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
             <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://mysql-1f4bd93c-ibtissammanadir4-dba6.a.aivencloud.com:20461/defaultdb"/>
             <property name="jakarta.persistence.jdbc.user" value="avnadmin"/>
-            <property name="jakarta.persistence.jdbc.password" value="AVNS_Q0NhqEgh-4TmO2qmb15"/>
+            <property name="jakarta.persistence.jdbc.password" value=""/>
             <property name="eclipselink.ddl-generation" value="create-tables"/>
 
         </properties>
